@@ -1,0 +1,13 @@
+.heading{
+    font-size: 22px;
+    width: 100%;
+    margin-top: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.button{
+    font-size: 22px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+canvas{
+    margin-top: 20px;
+}
